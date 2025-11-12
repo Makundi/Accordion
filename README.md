@@ -4,4 +4,4 @@ A lightweight, accessible accordion component built with vanilla JavaScript, HTM
 Project Source: https://roadmap.sh/projects/accordion
 
 ## Preview
-<video src="./Resources/preview.mov" controls preload></video>
+https://github.com/user-attachments/assets/5719a4be-2aaa-41c6-96d7-c02eb6136a0b
